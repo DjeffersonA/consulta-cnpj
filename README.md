@@ -7,7 +7,7 @@ Sistema feito para realizar consultas massivas de CNPJs, utilizando a API MinhaR
 1. Inserir os CNPJs no arquivo "data.csv" (um CNPJ por coluna) e salvar.
 2. Executar o arquivo "cnpj.py"
 
-### OBS.: Não deixar o arquivo "cnpj.csv" aberto durante a execução do cnpj.py.
+OBS.: Não deixar o arquivo "cnpj.csv" aberto durante a execução do cnpj.py.
 
 ## Informações obtidas:
 
